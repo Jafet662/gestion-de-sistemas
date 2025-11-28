@@ -1,0 +1,16 @@
+com\gimnasio\dao\CompraDao.class
+com\gimnasio\model\Compra.class
+com\gimnasio\dao\ProductoDao.class
+com\gimnasio\model\TipoUsuario.class
+com\gimnasio\model\Usuario.class
+com\gimnasio\util\HibernateUtil.class
+com\gimnasio\Main.class
+com\gimnasio\service\AuthService.class
+com\gimnasio\model\Producto.class
+com\gimnasio\service\UsuarioService.class
+com\gimnasio\util\InputUtil.class
+com\gimnasio\service\CompraService.class
+com\gimnasio\util\HashUtil.class
+com\gimnasio\dao\UsuarioDao.class
+com\gimnasio\controller\AppController.class
+com\gimnasio\service\BodegaService.class
